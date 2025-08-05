@@ -9,4 +9,4 @@ Os requisitos para este desafio são:
 
 **** para permitir novas definições de tempo de requisição, foi definido um parâmetro de tempo na chamada do bin
 
-go run multithreading.go [tempo em segundos] [número do cep]
+go run desafio-multithreading.go [tempo em segundos] [número do cep]
